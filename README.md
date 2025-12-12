@@ -1,6 +1,6 @@
-# 🎲 Snake & Ladder Game - Software & Hardware Edition
+# 🎲 Snake & Ladder Game - Hardware Edition
 
-A nostalgic board game brought to life with LEDs, logic circuits, and lots of engineering magic! ✨
+> A nostalgic board game brought to life with LEDs, logic circuits, and lots of engineering magic! ✨
 
 ## 📚 About This Project
 
@@ -12,8 +12,8 @@ Remember playing Snake & Ladder as a kid? We built a physical electronic version
 
 ## 👨‍💻 The Dream Team
 
-| Student ID | Name | Role Highlights |
-|------------|------|-----------------|
+| Student ID | Name |
+|------------|------|
 | 220021108 | Shazzad Ahmed |
 | 220021116 | Faiad Faisal Sarthok |
 | 220021123 | Fahim Shifat |
@@ -26,9 +26,9 @@ Remember playing Snake & Ladder as a kid? We built a physical electronic version
 
 Want to see the magic happen? Check out our demo video!
 
-[![Watch Demo](https://youtu.be/N2M6XJJVqV4?si=ug31wzvvWqkCk_Sj)
+[![Watch Demo](https://img.shields.io/badge/▶️%20Watch%20Demo%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/N2M6XJJVqV4?si=ug31wzvvWqkCk_Sj)
 
-Video crafted with ❤️ by Shazzad Ahmed Chowdhury (editing, recording & voice-over)
+*Video crafted with ❤️ by Shazzad Ahmed Chowdhury (editing, recording & voice-over)*
 
 ## 🎮 What Makes This Game Special?
 
@@ -191,7 +191,7 @@ Imagine if we added:
 ## 📧 Get In Touch
 
 Questions? Suggestions? Want to collaborate?  
-Reach out me through GitHub.
+Reach out through Islamic University of Technology channels.
 
 ## 📜 License
 
@@ -199,6 +199,7 @@ This is an academic project created for educational purposes at Islamic Universi
 
 ---
 
+<div align="center">
 
 **Project Status:** ✅ Completed & Fully Functional
 
@@ -207,3 +208,5 @@ This is an academic project created for educational purposes at Islamic Universi
 Made with 🔧 💡 and ☕ by Team EEE 4307
 
 *"Because every engineer needs to build a game at least once!"*
+
+</div>
