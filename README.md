@@ -1,6 +1,6 @@
 # 🎲 Snake & Ladder Game - Hardware Edition
 
-> A nostalgic board game brought to life with LEDs, logic circuits, and lots of engineering magic! ✨
+ A nostalgic board game brought to life with LEDs, logic circuits, and lots of engineering magic! ✨
 
 ## 📚 About This Project
 
